@@ -1,0 +1,4962 @@
+{
+  "Uttar Pradesh": {
+    "total_users": 101272,
+    "pct_female": 10.5,
+    "pct_male": 89.5,
+    "national_rank": 1,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 1003
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 413
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 5182
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 4383
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 4845
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 4115
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 4234
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 3943
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 5210
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 5178
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 4617
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 4125
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 3471
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 4205
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 4616
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 4069
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 4134
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 3512
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 3897
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 6283
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 5600
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 5281
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 5775
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 3181
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Ghaziabad",
+        "total_users": 7521
+      },
+      {
+        "District Name": "Lucknow",
+        "total_users": 7390
+      },
+      {
+        "District Name": "Gautam Buddha Nagar ",
+        "total_users": 6282
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 5395
+      },
+      {
+        "District Name": "Kanpur Nagar",
+        "total_users": 4842
+      },
+      {
+        "District Name": "Allahabad ",
+        "total_users": 3868
+      },
+      {
+        "District Name": "Agra",
+        "total_users": 3619
+      },
+      {
+        "District Name": "Varanasi",
+        "total_users": 3069
+      },
+      {
+        "District Name": "Meerut",
+        "total_users": 3020
+      },
+      {
+        "District Name": "Gorakhpur",
+        "total_users": 2253
+      }
+    ]
+  },
+  "Maharashtra": {
+    "total_users": 68331,
+    "pct_female": 12.8,
+    "pct_male": 87.1,
+    "national_rank": 2,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 611
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 275
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 3341
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 2872
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 3032
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 2783
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 2699
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 2537
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 3380
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 3457
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 2777
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 2622
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 2348
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 2754
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 3022
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 2755
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 3354
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 2401
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 2491
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 6411
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 3836
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 3332
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 3299
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 1942
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Pune",
+        "total_users": 12338
+      },
+      {
+        "District Name": "Mumbai (Suburban) ",
+        "total_users": 9530
+      },
+      {
+        "District Name": "Thane",
+        "total_users": 8603
+      },
+      {
+        "District Name": "Mumbai City",
+        "total_users": 7461
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 4857
+      },
+      {
+        "District Name": "Nagpur",
+        "total_users": 2968
+      },
+      {
+        "District Name": "Nashik",
+        "total_users": 2176
+      },
+      {
+        "District Name": "Raigad",
+        "total_users": 2005
+      },
+      {
+        "District Name": "Palghar",
+        "total_users": 1836
+      },
+      {
+        "District Name": "Aurangabad",
+        "total_users": 1472
+      }
+    ]
+  },
+  "Delhi": {
+    "total_users": 55810,
+    "pct_female": 15.3,
+    "pct_male": 84.6,
+    "national_rank": 3,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 221
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 85
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 2956
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 2662
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 2841
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 2655
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 2824
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 2456
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 3110
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 3030
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 2539
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 2449
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 1912
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 1957
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 2357
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 2061
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 2256
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 2177
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 2219
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 3319
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 2863
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 2446
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 2691
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 1724
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "South West Delhi",
+        "total_users": 8150
+      },
+      {
+        "District Name": "South Delhi",
+        "total_users": 7810
+      },
+      {
+        "District Name": "East Delhi   ",
+        "total_users": 6587
+      },
+      {
+        "District Name": "North West Delhi",
+        "total_users": 6523
+      },
+      {
+        "District Name": "West Delhi",
+        "total_users": 5878
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 4273
+      },
+      {
+        "District Name": "North Delhi",
+        "total_users": 4225
+      },
+      {
+        "District Name": "New Delhi",
+        "total_users": 4095
+      },
+      {
+        "District Name": "North East Delhi   ",
+        "total_users": 3252
+      },
+      {
+        "District Name": "Central Delhi",
+        "total_users": 3044
+      }
+    ]
+  },
+  "Karnataka": {
+    "total_users": 53049,
+    "pct_female": 10.3,
+    "pct_male": 89.7,
+    "national_rank": 4,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 260
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 97
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 1454
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 1284
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 1388
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 1308
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 1135
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 1255
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 1948
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 1596
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 1215
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 1149
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 1045
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 1099
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 1254
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 1174
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 1432
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 1013
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 1162
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 10978
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 8112
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 2238
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 6655
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 2798
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Bengaluru (Bangalore) Urban",
+        "total_users": 19454
+      },
+      {
+        "District Name": "Bengaluru (Bangalore) Rural",
+        "total_users": 3820
+      },
+      {
+        "District Name": "Dakshina Kannada",
+        "total_users": 2482
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 2362
+      },
+      {
+        "District Name": "Belagavi (Belgaum)",
+        "total_users": 2115
+      },
+      {
+        "District Name": "Mysuru (Mysore)",
+        "total_users": 2029
+      },
+      {
+        "District Name": "Dharwad",
+        "total_users": 1756
+      },
+      {
+        "District Name": "Udupi ",
+        "total_users": 1304
+      },
+      {
+        "District Name": "Ballari (Bellary)",
+        "total_users": 1233
+      },
+      {
+        "District Name": "Shivamogga ( Shimoga)",
+        "total_users": 1180
+      }
+    ]
+  },
+  "Rajasthan": {
+    "total_users": 34507,
+    "pct_female": 8.2,
+    "pct_male": 91.8,
+    "national_rank": 5,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 364
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 176
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 1868
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 1706
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 1804
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 1523
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 1564
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 1512
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 1985
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 1906
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 1572
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 1429
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 1066
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 1160
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 1429
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 1326
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 1291
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 1165
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 1287
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 2053
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 1757
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 1659
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 1846
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 1059
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Jaipur",
+        "total_users": 7158
+      },
+      {
+        "District Name": "Jodhpur",
+        "total_users": 2161
+      },
+      {
+        "District Name": "Alwar",
+        "total_users": 2146
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 1872
+      },
+      {
+        "District Name": "Kota",
+        "total_users": 1557
+      },
+      {
+        "District Name": "Ajmer",
+        "total_users": 1540
+      },
+      {
+        "District Name": "Jhunjhunun",
+        "total_users": 1367
+      },
+      {
+        "District Name": "Sikar",
+        "total_users": 1322
+      },
+      {
+        "District Name": "Sri Ganganagar",
+        "total_users": 1139
+      },
+      {
+        "District Name": "Udaipur",
+        "total_users": 1125
+      }
+    ]
+  },
+  "Haryana": {
+    "total_users": 32261,
+    "pct_female": 12.3,
+    "pct_male": 87.7,
+    "national_rank": 6,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 287
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 118
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 1580
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 1384
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 1375
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 1460
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 1401
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 1271
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 1831
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 1605
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 1439
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 1303
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 1146
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 1233
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 1492
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 1306
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 1463
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 1284
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 1295
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 2191
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 1738
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 1572
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 1579
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 908
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Gurgaon",
+        "total_users": 6662
+      },
+      {
+        "District Name": "Faridabad",
+        "total_users": 4386
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 1896
+      },
+      {
+        "District Name": "Hisar",
+        "total_users": 1787
+      },
+      {
+        "District Name": "Sonipat",
+        "total_users": 1570
+      },
+      {
+        "District Name": "Rohtak",
+        "total_users": 1312
+      },
+      {
+        "District Name": "Ambala",
+        "total_users": 1304
+      },
+      {
+        "District Name": "Rewari",
+        "total_users": 1159
+      },
+      {
+        "District Name": "Jhajjar ",
+        "total_users": 1158
+      },
+      {
+        "District Name": "Karnal",
+        "total_users": 1091
+      }
+    ]
+  },
+  "Gujarat": {
+    "total_users": 31920,
+    "pct_female": 9,
+    "pct_male": 90.9,
+    "national_rank": 7,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 313
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 140
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 1469
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 1174
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 1391
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 1209
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 1091
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 1170
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 1533
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 1550
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 1230
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 1182
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 1026
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 1275
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 1418
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 1252
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 1565
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 1176
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 1377
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 2441
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 1741
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 1494
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 2506
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 1197
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Ahmadabad",
+        "total_users": 7304
+      },
+      {
+        "District Name": "Surat",
+        "total_users": 4359
+      },
+      {
+        "District Name": "Vadodara",
+        "total_users": 3504
+      },
+      {
+        "District Name": "Rajkot",
+        "total_users": 1862
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 1849
+      },
+      {
+        "District Name": "Kachchh",
+        "total_users": 1111
+      },
+      {
+        "District Name": "Gandhinagar",
+        "total_users": 1010
+      },
+      {
+        "District Name": "Jamnagar",
+        "total_users": 925
+      },
+      {
+        "District Name": "Bharuch",
+        "total_users": 863
+      },
+      {
+        "District Name": "Bhavnagar",
+        "total_users": 840
+      }
+    ]
+  },
+  "West Bengal": {
+    "total_users": 31902,
+    "pct_female": 12.4,
+    "pct_male": 87.5,
+    "national_rank": 8,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 239
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 92
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 1622
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 1438
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 1546
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 1354
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 1349
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 1315
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 1736
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 1592
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 1407
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 1375
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 1174
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 1228
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 1460
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 1441
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 1331
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 1112
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 1273
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 1931
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 1639
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 1664
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 1640
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 944
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Kolkata",
+        "total_users": 6239
+      },
+      {
+        "District Name": "North 24 Parganas",
+        "total_users": 5252
+      },
+      {
+        "District Name": "Burdwan (Bardhaman)",
+        "total_users": 3280
+      },
+      {
+        "District Name": "Hooghly",
+        "total_users": 2182
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 2039
+      },
+      {
+        "District Name": "South 24 Parganas",
+        "total_users": 1955
+      },
+      {
+        "District Name": "Howrah ",
+        "total_users": 1764
+      },
+      {
+        "District Name": "Paschim Medinipur (West Medinipur)",
+        "total_users": 1471
+      },
+      {
+        "District Name": "Nadia ",
+        "total_users": 1119
+      },
+      {
+        "District Name": "Purba Medinipur (East Medinipur)",
+        "total_users": 902
+      }
+    ]
+  },
+  "Bihar": {
+    "total_users": 29033,
+    "pct_female": 8.1,
+    "pct_male": 91.9,
+    "national_rank": 9,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 342
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 164
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 1603
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 1308
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 1220
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 1063
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 1097
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 1127
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 1549
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 1548
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 1273
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 1188
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 963
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 1223
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 1352
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 1176
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 1215
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 1067
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 1087
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 1596
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 1574
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 1522
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 1780
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 996
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Patna",
+        "total_users": 4997
+      },
+      {
+        "District Name": "Muzaffarpur",
+        "total_users": 1734
+      },
+      {
+        "District Name": "Gaya",
+        "total_users": 1153
+      },
+      {
+        "District Name": "Samastipur",
+        "total_users": 1131
+      },
+      {
+        "District Name": "Madhubani",
+        "total_users": 1110
+      },
+      {
+        "District Name": "Saran",
+        "total_users": 1092
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 1073
+      },
+      {
+        "District Name": "Darbhanga",
+        "total_users": 1049
+      },
+      {
+        "District Name": "Nalanda",
+        "total_users": 1031
+      },
+      {
+        "District Name": "Bhagalpur",
+        "total_users": 974
+      }
+    ]
+  },
+  "Tamilnadu": {
+    "total_users": 28366,
+    "pct_female": 12.9,
+    "pct_male": 87.1,
+    "national_rank": 10,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 214
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 112
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 1406
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 1215
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 1295
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 1161
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 1102
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 1026
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 1455
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 1243
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 1053
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 1049
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 996
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 1068
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 1129
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 1088
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 1354
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 995
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 982
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 3137
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 1576
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 1312
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 1409
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 989
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Chennai",
+        "total_users": 7890
+      },
+      {
+        "District Name": "Kanchipuram",
+        "total_users": 2557
+      },
+      {
+        "District Name": "Coimbatore",
+        "total_users": 2215
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 1538
+      },
+      {
+        "District Name": "Tiruvallur",
+        "total_users": 1275
+      },
+      {
+        "District Name": "Vellore",
+        "total_users": 1045
+      },
+      {
+        "District Name": "Tiruchirappalli",
+        "total_users": 997
+      },
+      {
+        "District Name": "Madurai",
+        "total_users": 995
+      },
+      {
+        "District Name": "Salem",
+        "total_users": 735
+      },
+      {
+        "District Name": "Tirunelveli ",
+        "total_users": 689
+      }
+    ]
+  },
+  "Madhya Pradesh": {
+    "total_users": 25109,
+    "pct_female": 10.5,
+    "pct_male": 89.4,
+    "national_rank": 11,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 216
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 96
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 1308
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 1243
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 1190
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 1016
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 1065
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 1071
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 1401
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 1442
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 1224
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 1107
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 823
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 980
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 1080
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 999
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 979
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 828
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 885
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 1457
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 1302
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 1185
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 1314
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 898
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Indore",
+        "total_users": 3228
+      },
+      {
+        "District Name": "Bhopal",
+        "total_users": 2934
+      },
+      {
+        "District Name": "Jabalpur",
+        "total_users": 1613
+      },
+      {
+        "District Name": "Gwalior",
+        "total_users": 1579
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 1260
+      },
+      {
+        "District Name": "Rewa",
+        "total_users": 892
+      },
+      {
+        "District Name": "Sagar",
+        "total_users": 729
+      },
+      {
+        "District Name": "Satna",
+        "total_users": 676
+      },
+      {
+        "District Name": "Ujjain",
+        "total_users": 675
+      },
+      {
+        "District Name": "Singrauli",
+        "total_users": 521
+      }
+    ]
+  },
+  "Punjab": {
+    "total_users": 14974,
+    "pct_female": 12.4,
+    "pct_male": 87.6,
+    "national_rank": 12,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 85
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 28
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 684
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 628
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 686
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 652
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 695
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 617
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 832
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 920
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 627
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 629
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 537
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 540
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 571
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 537
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 670
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 594
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 691
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 1001
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 847
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 784
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 717
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 402
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Ludhiana",
+        "total_users": 2568
+      },
+      {
+        "District Name": "S.A.S. Nagar",
+        "total_users": 1788
+      },
+      {
+        "District Name": "Jalandhar",
+        "total_users": 1359
+      },
+      {
+        "District Name": "Amritsar",
+        "total_users": 1333
+      },
+      {
+        "District Name": "Patiala",
+        "total_users": 1068
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 778
+      },
+      {
+        "District Name": "Bathinda",
+        "total_users": 747
+      },
+      {
+        "District Name": "Sangrur",
+        "total_users": 568
+      },
+      {
+        "District Name": "Hoshiarpur",
+        "total_users": 563
+      },
+      {
+        "District Name": "Pathankot",
+        "total_users": 514
+      }
+    ]
+  },
+  "Telangana": {
+    "total_users": 13730,
+    "pct_female": 11.9,
+    "pct_male": 88,
+    "national_rank": 13,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 148
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 57
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 698
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 601
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 637
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 643
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 642
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 514
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 819
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 695
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 597
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 558
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 463
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 462
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 609
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 517
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 588
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 443
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 623
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 1159
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 657
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 587
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 623
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 390
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Hyderabad",
+        "total_users": 5331
+      },
+      {
+        "District Name": "Ranga Reddy",
+        "total_users": 2280
+      },
+      {
+        "District Name": "Medchal\\u00a0",
+        "total_users": 1131
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 1032
+      },
+      {
+        "District Name": "Warangal Urban",
+        "total_users": 361
+      },
+      {
+        "District Name": "Sangareddy\\u00a0",
+        "total_users": 346
+      },
+      {
+        "District Name": "Karimnagar",
+        "total_users": 259
+      },
+      {
+        "District Name": "Nalgonda",
+        "total_users": 251
+      },
+      {
+        "District Name": "Khammam",
+        "total_users": 241
+      },
+      {
+        "District Name": "Nizamabad",
+        "total_users": 216
+      }
+    ]
+  },
+  "Andhra Pradesh": {
+    "total_users": 13248,
+    "pct_female": 9.9,
+    "pct_male": 90,
+    "national_rank": 14,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 219
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 77
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 657
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 626
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 580
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 529
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 490
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 518
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 839
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 678
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 561
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 583
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 578
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 501
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 531
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 544
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 611
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 449
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 477
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 832
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 719
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 620
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 612
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 417
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Visakhapatnam",
+        "total_users": 2208
+      },
+      {
+        "District Name": "Guntur",
+        "total_users": 1258
+      },
+      {
+        "District Name": "Krishna",
+        "total_users": 1240
+      },
+      {
+        "District Name": "Chittoor",
+        "total_users": 1118
+      },
+      {
+        "District Name": "East Godavari",
+        "total_users": 1064
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 916
+      },
+      {
+        "District Name": "Anantapur",
+        "total_users": 875
+      },
+      {
+        "District Name": "Kurnool",
+        "total_users": 783
+      },
+      {
+        "District Name": "Nellore",
+        "total_users": 720
+      },
+      {
+        "District Name": "Kadapa",
+        "total_users": 708
+      }
+    ]
+  },
+  "Odisha": {
+    "total_users": 12986,
+    "pct_female": 10,
+    "pct_male": 89.9,
+    "national_rank": 15,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 189
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 88
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 601
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 603
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 588
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 566
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 519
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 533
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 716
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 706
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 559
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 538
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 437
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 544
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 529
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 523
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 502
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 415
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 460
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 801
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 681
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 680
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 742
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 466
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Khordha  ",
+        "total_users": 2353
+      },
+      {
+        "District Name": "Cuttack",
+        "total_users": 1100
+      },
+      {
+        "District Name": "Ganjam",
+        "total_users": 927
+      },
+      {
+        "District Name": "Balasore",
+        "total_users": 798
+      },
+      {
+        "District Name": "Sundargarh",
+        "total_users": 696
+      },
+      {
+        "District Name": "Jajapur  ",
+        "total_users": 606
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 576
+      },
+      {
+        "District Name": "Puri",
+        "total_users": 476
+      },
+      {
+        "District Name": "Bhadrak  ",
+        "total_users": 451
+      },
+      {
+        "District Name": "Mayurbhanj",
+        "total_users": 448
+      }
+    ]
+  },
+  "Jharkhand": {
+    "total_users": 12443,
+    "pct_female": 9.5,
+    "pct_male": 90.4,
+    "national_rank": 16,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 121
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 49
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 664
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 633
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 588
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 517
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 543
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 530
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 728
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 680
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 599
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 526
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 479
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 513
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 546
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 515
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 469
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 373
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 378
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 734
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 630
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 623
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 643
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 362
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Ranchi",
+        "total_users": 2245
+      },
+      {
+        "District Name": "Dhanbad",
+        "total_users": 1889
+      },
+      {
+        "District Name": "East Singhbhum",
+        "total_users": 1347
+      },
+      {
+        "District Name": "Bokaro ",
+        "total_users": 1255
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 677
+      },
+      {
+        "District Name": "Giridih",
+        "total_users": 604
+      },
+      {
+        "District Name": "Hazaribag",
+        "total_users": 533
+      },
+      {
+        "District Name": "Deoghar",
+        "total_users": 513
+      },
+      {
+        "District Name": "Palamu",
+        "total_users": 471
+      },
+      {
+        "District Name": "Ramgarh",
+        "total_users": 399
+      }
+    ]
+  },
+  "Kerala": {
+    "total_users": 11763,
+    "pct_female": 17.8,
+    "pct_male": 82.2,
+    "national_rank": 17,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 65
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 14
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 631
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 488
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 544
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 511
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 499
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 478
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 636
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 501
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 531
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 496
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 436
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 444
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 489
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 479
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 518
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 397
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 452
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 984
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 688
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 564
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 542
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 376
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Ernakulam",
+        "total_users": 1861
+      },
+      {
+        "District Name": "Thiruvananthapuram",
+        "total_users": 1737
+      },
+      {
+        "District Name": "Thrissur",
+        "total_users": 1065
+      },
+      {
+        "District Name": "Kozhikode",
+        "total_users": 865
+      },
+      {
+        "District Name": "Palakkad",
+        "total_users": 853
+      },
+      {
+        "District Name": "Kollam",
+        "total_users": 812
+      },
+      {
+        "District Name": "Alappuzha",
+        "total_users": 805
+      },
+      {
+        "District Name": "Kottayam",
+        "total_users": 670
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 663
+      },
+      {
+        "District Name": "Kannur",
+        "total_users": 641
+      }
+    ]
+  },
+  "Assam": {
+    "total_users": 9260,
+    "pct_female": 13.1,
+    "pct_male": 86.8,
+    "national_rank": 18,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 53
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 20
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 438
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 436
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 509
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 365
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 360
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 406
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 469
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 536
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 441
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 350
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 287
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 328
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 335
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 352
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 482
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 303
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 392
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 677
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 490
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 496
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 484
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 251
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Kamrup Metropolitan",
+        "total_users": 2059
+      },
+      {
+        "District Name": "Cachar",
+        "total_users": 673
+      },
+      {
+        "District Name": "Kamrup",
+        "total_users": 584
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 471
+      },
+      {
+        "District Name": "Tinsukia",
+        "total_users": 432
+      },
+      {
+        "District Name": "Dibrugarh",
+        "total_users": 432
+      },
+      {
+        "District Name": "Shonitpur",
+        "total_users": 393
+      },
+      {
+        "District Name": "Nagaon",
+        "total_users": 346
+      },
+      {
+        "District Name": "Jorhat",
+        "total_users": 327
+      },
+      {
+        "District Name": "Karimganj",
+        "total_users": 322
+      }
+    ]
+  },
+  "Uttarakhand": {
+    "total_users": 8245,
+    "pct_female": 12.5,
+    "pct_male": 87.5,
+    "national_rank": 19,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 68
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 48
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 390
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 354
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 367
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 315
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 304
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 333
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 475
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 464
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 384
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 315
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 255
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 310
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 374
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 368
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 335
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 283
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 324
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 622
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 496
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 426
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 393
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 242
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Dehradun",
+        "total_users": 2530
+      },
+      {
+        "District Name": "Haridwar",
+        "total_users": 1468
+      },
+      {
+        "District Name": "Udham Singh Nagar ",
+        "total_users": 1062
+      },
+      {
+        "District Name": "Nainital",
+        "total_users": 896
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 478
+      },
+      {
+        "District Name": "Pauri Garhwal",
+        "total_users": 469
+      },
+      {
+        "District Name": "Almora",
+        "total_users": 324
+      },
+      {
+        "District Name": "Tehri Garhwal",
+        "total_users": 235
+      },
+      {
+        "District Name": "Pithoragarh",
+        "total_users": 209
+      },
+      {
+        "District Name": "Chamoli",
+        "total_users": 150
+      }
+    ]
+  },
+  "Chhattisgarh": {
+    "total_users": 7734,
+    "pct_female": 9.5,
+    "pct_male": 90.5,
+    "national_rank": 20,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 85
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 45
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 391
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 383
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 383
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 320
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 326
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 339
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 417
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 457
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 378
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 345
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 259
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 287
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 336
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 302
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 301
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 247
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 260
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 487
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 381
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 346
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 425
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 234
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Raipur",
+        "total_users": 1512
+      },
+      {
+        "District Name": "Durg",
+        "total_users": 1258
+      },
+      {
+        "District Name": "Bilaspur",
+        "total_users": 877
+      },
+      {
+        "District Name": "Korba ",
+        "total_users": 431
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 431
+      },
+      {
+        "District Name": "Janjgir - Champa",
+        "total_users": 412
+      },
+      {
+        "District Name": "Raigarh",
+        "total_users": 389
+      },
+      {
+        "District Name": "Rajnandgaon",
+        "total_users": 281
+      },
+      {
+        "District Name": "Baloda Bazar",
+        "total_users": 260
+      },
+      {
+        "District Name": "Korea",
+        "total_users": 220
+      }
+    ]
+  },
+  "Jammu And Kashmir": {
+    "total_users": 5729,
+    "pct_female": 9.5,
+    "pct_male": 90.4,
+    "national_rank": 21,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 43
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 16
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 257
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 253
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 294
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 227
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 245
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 206
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 292
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 319
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 295
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 253
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 212
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 229
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 344
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 252
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 281
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 233
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 267
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 403
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 424
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 135
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 150
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 99
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Jammu",
+        "total_users": 1915
+      },
+      {
+        "District Name": "Srinagar",
+        "total_users": 644
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 361
+      },
+      {
+        "District Name": "Kathua",
+        "total_users": 342
+      },
+      {
+        "District Name": "Baramula",
+        "total_users": 266
+      },
+      {
+        "District Name": "Udhampur",
+        "total_users": 255
+      },
+      {
+        "District Name": "Anantnag",
+        "total_users": 236
+      },
+      {
+        "District Name": "Rajauri",
+        "total_users": 207
+      },
+      {
+        "District Name": "Samba",
+        "total_users": 194
+      },
+      {
+        "District Name": "Badgam",
+        "total_users": 167
+      }
+    ]
+  },
+  "Himachal Pradesh": {
+    "total_users": 4268,
+    "pct_female": 10.9,
+    "pct_male": 89.1,
+    "national_rank": 22,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 42
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 28
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 184
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 181
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 193
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 151
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 201
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 192
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 287
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 255
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 196
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 162
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 155
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 164
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 163
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 172
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 154
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 144
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 165
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 290
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 224
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 234
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 229
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 102
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Kangra",
+        "total_users": 1121
+      },
+      {
+        "District Name": "Mandi",
+        "total_users": 446
+      },
+      {
+        "District Name": "Shimla",
+        "total_users": 437
+      },
+      {
+        "District Name": "Solan",
+        "total_users": 421
+      },
+      {
+        "District Name": "Hamirpur",
+        "total_users": 415
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 290
+      },
+      {
+        "District Name": "Una",
+        "total_users": 286
+      },
+      {
+        "District Name": "Bilaspur",
+        "total_users": 269
+      },
+      {
+        "District Name": "Sirmaur",
+        "total_users": 196
+      },
+      {
+        "District Name": "Chamba",
+        "total_users": 182
+      }
+    ]
+  },
+  "Chandigarh": {
+    "total_users": 3096,
+    "pct_female": 15.4,
+    "pct_male": 84.6,
+    "national_rank": 23,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 18
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 7
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 157
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 137
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 152
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 131
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 192
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 122
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 194
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 137
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 148
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 139
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 112
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 114
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 141
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 117
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 98
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 129
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 125
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 196
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 165
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 135
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 146
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 84
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Chandigarh",
+        "total_users": 2774
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 321
+      },
+      {
+        "District Name": "S.A.S. Nagar",
+        "total_users": 1
+      }
+    ]
+  },
+  "Tripura": {
+    "total_users": 1638,
+    "pct_female": 10.4,
+    "pct_male": 89.6,
+    "national_rank": 24,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 10
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 4
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 42
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 42
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 79
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 264
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 100
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 96
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 96
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 97
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 57
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 54
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 54
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 62
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 68
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 56
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 65
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 38
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 50
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 72
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 58
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 75
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 72
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 27
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "West Tripura ",
+        "total_users": 740
+      },
+      {
+        "District Name": "North Tripura ",
+        "total_users": 181
+      },
+      {
+        "District Name": "Gomati",
+        "total_users": 134
+      },
+      {
+        "District Name": "Unakoti",
+        "total_users": 126
+      },
+      {
+        "District Name": "South Tripura ",
+        "total_users": 113
+      },
+      {
+        "District Name": "Sepahijala",
+        "total_users": 108
+      },
+      {
+        "District Name": "Dhalai  ",
+        "total_users": 85
+      },
+      {
+        "District Name": "Khowai",
+        "total_users": 76
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 75
+      }
+    ]
+  },
+  "Goa": {
+    "total_users": 1304,
+    "pct_female": 16.7,
+    "pct_male": 83.1,
+    "national_rank": 25,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 8
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 5
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 69
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 52
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 51
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 60
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 52
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 54
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 60
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 57
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 64
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 55
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 42
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 59
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 71
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 42
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 51
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 34
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 56
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 136
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 70
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 60
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 53
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 43
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "North Goa ",
+        "total_users": 646
+      },
+      {
+        "District Name": "South Goa",
+        "total_users": 560
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 98
+      }
+    ]
+  },
+  "Puducherry": {
+    "total_users": 979,
+    "pct_female": 12.3,
+    "pct_male": 87.6,
+    "national_rank": 26,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 9
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 2
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 52
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 56
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 53
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 35
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 35
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 52
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 46
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 48
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 34
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 42
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 48
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 55
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 49
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 46
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 38
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 27
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 43
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 71
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 45
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 35
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 31
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 27
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Pondicherry",
+        "total_users": 767
+      },
+      {
+        "District Name": "Karaikal",
+        "total_users": 97
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 59
+      },
+      {
+        "District Name": "Mahe",
+        "total_users": 31
+      },
+      {
+        "District Name": "Yanam",
+        "total_users": 25
+      }
+    ]
+  },
+  "Manipur": {
+    "total_users": 553,
+    "pct_female": 12.3,
+    "pct_male": 87.7,
+    "national_rank": 27,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 2
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 3
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 30
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 30
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 37
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 22
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 13
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 16
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 20
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 17
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 23
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 26
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 24
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 22
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 23
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 31
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 20
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 15
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 21
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 36
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 26
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 24
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 41
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 31
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Imphal West",
+        "total_users": 167
+      },
+      {
+        "District Name": "Imphal East ",
+        "total_users": 101
+      },
+      {
+        "District Name": "Thoubal",
+        "total_users": 57
+      },
+      {
+        "District Name": "Churachandpur",
+        "total_users": 38
+      },
+      {
+        "District Name": "Bishnupur",
+        "total_users": 37
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 37
+      },
+      {
+        "District Name": "Kakching",
+        "total_users": 23
+      },
+      {
+        "District Name": "Ukhrul",
+        "total_users": 22
+      },
+      {
+        "District Name": "Senapati",
+        "total_users": 22
+      },
+      {
+        "District Name": "Kangpokpi",
+        "total_users": 14
+      }
+    ]
+  },
+  "Meghalaya": {
+    "total_users": 483,
+    "pct_female": 19,
+    "pct_male": 81,
+    "national_rank": 28,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 1
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 1
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 18
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 17
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 20
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 24
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 26
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 19
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 30
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 31
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 31
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 14
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 17
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 14
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 19
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 19
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 26
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 7
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 14
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 37
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 39
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 28
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 20
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 11
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "East Khasi Hills",
+        "total_users": 327
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 50
+      },
+      {
+        "District Name": "West Garo Hills",
+        "total_users": 36
+      },
+      {
+        "District Name": "Ri Bhoi  ",
+        "total_users": 23
+      },
+      {
+        "District Name": "East Jaintia Hills",
+        "total_users": 14
+      },
+      {
+        "District Name": "West Jaintia Hills",
+        "total_users": 13
+      },
+      {
+        "District Name": "West Khasi Hills",
+        "total_users": 5
+      },
+      {
+        "District Name": "East Garo Hills",
+        "total_users": 5
+      },
+      {
+        "District Name": "South West Garo Hills",
+        "total_users": 5
+      },
+      {
+        "District Name": "South West Khasi Hills",
+        "total_users": 3
+      }
+    ]
+  },
+  "Arunachal Pradesh": {
+    "total_users": 369,
+    "pct_female": 11.9,
+    "pct_male": 87.8,
+    "national_rank": 29,
+    "monthly_trend": [
+      {
+        "year_month": "2018-01",
+        "registrations": 18
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 28
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 19
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 16
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 14
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 17
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 21
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 20
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 19
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 11
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 9
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 13
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 18
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 14
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 14
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 14
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 15
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 18
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 29
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 15
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 19
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 8
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Papum Pare ",
+        "total_users": 109
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 52
+      },
+      {
+        "District Name": "Changlang",
+        "total_users": 34
+      },
+      {
+        "District Name": "East Siang",
+        "total_users": 28
+      },
+      {
+        "District Name": "West Kameng",
+        "total_users": 22
+      },
+      {
+        "District Name": "Lohit",
+        "total_users": 21
+      },
+      {
+        "District Name": "West Siang",
+        "total_users": 19
+      },
+      {
+        "District Name": "Namsai",
+        "total_users": 16
+      },
+      {
+        "District Name": "Tawang",
+        "total_users": 13
+      },
+      {
+        "District Name": "East Kameng",
+        "total_users": 10
+      }
+    ]
+  },
+  "Andaman And Nicobar Islands": {
+    "total_users": 317,
+    "pct_female": 20.2,
+    "pct_male": 79.5,
+    "national_rank": 30,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 1
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 1
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 25
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 17
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 13
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 11
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 15
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 11
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 20
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 17
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 13
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 16
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 11
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 16
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 13
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 14
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 8
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 9
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 12
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 20
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 16
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 16
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 17
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 5
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "South Andaman",
+        "total_users": 209
+      },
+      {
+        "District Name": "North and Middle Andaman",
+        "total_users": 57
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 26
+      },
+      {
+        "District Name": "Nicobar",
+        "total_users": 25
+      }
+    ]
+  },
+  "Nagaland": {
+    "total_users": 229,
+    "pct_female": 19.7,
+    "pct_male": 80.3,
+    "national_rank": 31,
+    "monthly_trend": [
+      {
+        "year_month": "2018-01",
+        "registrations": 9
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 11
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 7
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 8
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 5
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 5
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 11
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 16
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 11
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 11
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 8
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 12
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 10
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 8
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 9
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 7
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 9
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 15
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 16
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 15
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 17
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 9
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Dimapur ",
+        "total_users": 127
+      },
+      {
+        "District Name": "Kohima",
+        "total_users": 44
+      },
+      {
+        "District Name": "Mokokchung",
+        "total_users": 12
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 10
+      },
+      {
+        "District Name": "Phek",
+        "total_users": 8
+      },
+      {
+        "District Name": "Wokha",
+        "total_users": 7
+      },
+      {
+        "District Name": "Zunheboto",
+        "total_users": 6
+      },
+      {
+        "District Name": "Mon",
+        "total_users": 5
+      },
+      {
+        "District Name": "Tuensang",
+        "total_users": 4
+      },
+      {
+        "District Name": "Peren ",
+        "total_users": 3
+      }
+    ]
+  },
+  "Sikkim": {
+    "total_users": 216,
+    "pct_female": 13.9,
+    "pct_male": 86.1,
+    "national_rank": 32,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 1
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 6
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 11
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 13
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 14
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 10
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 9
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 12
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 21
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 8
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 7
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 13
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 5
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 7
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 10
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 8
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 11
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 7
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 5
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 8
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 19
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 6
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 5
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "East Sikkim",
+        "total_users": 156
+      },
+      {
+        "District Name": "South Sikkim",
+        "total_users": 31
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 14
+      },
+      {
+        "District Name": "West Sikkim",
+        "total_users": 11
+      },
+      {
+        "District Name": "North Sikkim",
+        "total_users": 4
+      }
+    ]
+  },
+  "Dadra and Nagar Haveli": {
+    "total_users": 189,
+    "pct_female": 12.2,
+    "pct_male": 87.3,
+    "national_rank": 33,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 1
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 1
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 8
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 13
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 10
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 9
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 8
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 6
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 10
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 4
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 8
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 10
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 7
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 7
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 9
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 12
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 7
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 4
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 5
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 10
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 13
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 2
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 17
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 8
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Dadra & Nagar Haveli",
+        "total_users": 168
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 21
+      }
+    ]
+  },
+  "Daman and Diu": {
+    "total_users": 146,
+    "pct_female": 11,
+    "pct_male": 89,
+    "national_rank": 34,
+    "monthly_trend": [
+      {
+        "year_month": "2017-11",
+        "registrations": 1
+      },
+      {
+        "year_month": "2017-12",
+        "registrations": 1
+      },
+      {
+        "year_month": "2018-01",
+        "registrations": 3
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 7
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 7
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 2
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 4
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 8
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 5
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 6
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 7
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 8
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 6
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 3
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 8
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 4
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 6
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 2
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 7
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 12
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 5
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 19
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 11
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 4
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Daman",
+        "total_users": 104
+      },
+      {
+        "District Name": "Diu",
+        "total_users": 26
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 15
+      },
+      {
+        "District Name": "NaN",
+        "total_users": 1
+      }
+    ]
+  },
+  "Mizoram": {
+    "total_users": 101,
+    "pct_female": 14.9,
+    "pct_male": 85.1,
+    "national_rank": 35,
+    "monthly_trend": [
+      {
+        "year_month": "2018-01",
+        "registrations": 7
+      },
+      {
+        "year_month": "2018-02",
+        "registrations": 3
+      },
+      {
+        "year_month": "2018-03",
+        "registrations": 6
+      },
+      {
+        "year_month": "2018-04",
+        "registrations": 3
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 3
+      },
+      {
+        "year_month": "2018-06",
+        "registrations": 7
+      },
+      {
+        "year_month": "2018-07",
+        "registrations": 10
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 4
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 3
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 12
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 3
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 2
+      },
+      {
+        "year_month": "2019-01",
+        "registrations": 3
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 3
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 4
+      },
+      {
+        "year_month": "2019-04",
+        "registrations": 2
+      },
+      {
+        "year_month": "2019-05",
+        "registrations": 5
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 8
+      },
+      {
+        "year_month": "2019-07",
+        "registrations": 5
+      },
+      {
+        "year_month": "2019-08",
+        "registrations": 4
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 4
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Aizawl",
+        "total_users": 58
+      },
+      {
+        "District Name": "Lunglei",
+        "total_users": 13
+      },
+      {
+        "District Name": "Kolasib ",
+        "total_users": 6
+      },
+      {
+        "District Name": "Champhai ",
+        "total_users": 6
+      },
+      {
+        "District Name": "Lawngtlai",
+        "total_users": 6
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 5
+      },
+      {
+        "District Name": "Serchhip ",
+        "total_users": 3
+      },
+      {
+        "District Name": "Saiha ",
+        "total_users": 2
+      },
+      {
+        "District Name": "Mamit ",
+        "total_users": 2
+      }
+    ]
+  },
+  "Lakshadweep": {
+    "total_users": 19,
+    "pct_female": 5.3,
+    "pct_male": 94.7,
+    "national_rank": 36,
+    "monthly_trend": [
+      {
+        "year_month": "2018-02",
+        "registrations": 2
+      },
+      {
+        "year_month": "2018-05",
+        "registrations": 3
+      },
+      {
+        "year_month": "2018-08",
+        "registrations": 2
+      },
+      {
+        "year_month": "2018-09",
+        "registrations": 1
+      },
+      {
+        "year_month": "2018-10",
+        "registrations": 1
+      },
+      {
+        "year_month": "2018-11",
+        "registrations": 1
+      },
+      {
+        "year_month": "2018-12",
+        "registrations": 1
+      },
+      {
+        "year_month": "2019-02",
+        "registrations": 1
+      },
+      {
+        "year_month": "2019-03",
+        "registrations": 1
+      },
+      {
+        "year_month": "2019-06",
+        "registrations": 1
+      },
+      {
+        "year_month": "2019-09",
+        "registrations": 2
+      },
+      {
+        "year_month": "2019-10",
+        "registrations": 3
+      }
+    ],
+    "top_districts": [
+      {
+        "District Name": "Lakshadweep",
+        "total_users": 17
+      },
+      {
+        "District Name": "No District/Not Known",
+        "total_users": 2
+      }
+    ]
+  }
+}
