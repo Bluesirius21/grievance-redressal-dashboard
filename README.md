@@ -168,9 +168,8 @@ Production assets will be generated in the `dist/` directory, ready to deploy to
 
 | Name              | Role                            | GitHub / Contact                   |
 | :---------------- | :------------------------------ | :--------------------------------- |
-| **Mohan Prasath** | Lead Developer & Data Architect | [@Thejashree](https://github.com/) |
+| **Thejashree J P** | Lead Developer & Data Architect | [@Bluesirius21](https://github.com/Bluesirius21) |
 | _Team Member 2_   | _Role Placeholder_              | [@username](https://github.com/)   |
-| _Team Member 3_   | _Role Placeholder_              | [@username](https://github.com/)   |
 
 ---
 
